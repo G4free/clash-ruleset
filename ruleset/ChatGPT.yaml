@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  # payment
+  - DOMAIN-SUFFIX,stripe.com
+  # register
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net

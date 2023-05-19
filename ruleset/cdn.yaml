@@ -1,0 +1,20 @@
+payload:
+  # PornHub
+  - DOMAIN-SUFFIX,phncdn.com,DIRECT
+  # xvideos
+  - DOMAIN-SUFFIX,xvideos-cdn.com,DIRECT
+  # 91
+  - DOMAIN-SUFFIX,killcovid2021.com,DIRECT
+  # - DOMAIN-SUFFIX,91zuixindizhi2.com
+  - DOMAIN-SUFFIX,91p46.com,DIRECT
+  # - DOMAIN-KEYWORD,91p,DIRECT # 误杀91porn.com
+  # stripchat
+  - DOMAIN-SUFFIX,doppiocdn.com,DIRECT
+
+  - DOMAIN-SUFFIX,bbdata.cc,DIRECT
+
+  # charurbate
+  - DOMAIN-SUFFIX,highwebmedia.com,DIRECT
+  - DOMAIN-SUFFIX,mmcdn.com,DIRECT
+  # xnxx.com
+  - DOMAIN-SUFFIX,xnxx-cdn.com,DIRECT

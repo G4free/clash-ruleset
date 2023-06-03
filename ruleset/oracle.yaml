@@ -1,5 +1,6 @@
-# https://github.com/v2fly/domain-list-community/blob/master/data/oracle
 payload:
+  # https://github.com/v2fly/domain-list-community/blob/master/data/oracle
+
   # All .oracle domains
   - DOMAIN-SUFFIX,oracle
 

@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,phncdn.com,DIRECT
   # xvideos
   - DOMAIN-SUFFIX,xvideos-cdn.com,DIRECT
+  # javhun.net
+  - DOMAIN-SUFFIX,anyhentai.com
   # 91
   - DOMAIN-SUFFIX,killcovid2021.com,DIRECT
   # - DOMAIN-SUFFIX,91zuixindizhi2.com
@@ -118,3 +120,7 @@ payload:
   - DOMAIN-SUFFIX,mmcdn.com,DIRECT
   # xnxx.com
   - DOMAIN-SUFFIX,xnxx-cdn.com,DIRECT
+  # MissAV
+  - DOMAIN-SUFFIX,static.missav.com
+  - DOMAIN-SUFFIX,cdn.missav.com
+  - DOMAIN-SUFFIX,thumbnail.missav.com

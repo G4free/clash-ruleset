@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,phncdn.com,DIRECT
   # xvideos
   - DOMAIN-SUFFIX,xvideos-cdn.com,DIRECT
-  - IP-CIDR,143.244.51.9/32
+  - IP-CIDR,143.244.51.9/32,no-resolve
   # javhub.net | highporn.net
   - DOMAIN-SUFFIX,anyhentai.com
   # 91

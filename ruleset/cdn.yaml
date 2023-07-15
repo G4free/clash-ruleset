@@ -1,4 +1,9 @@
 payload:
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,meiying.video
+  # Android Studio
+  - DOMAIN-SUFFIX,gvt1.com
+  # Discord
   - DOMAIN-SUFFIX,dl.discordapp.net
   # PornHub
   - DOMAIN-SUFFIX,phncdn.com,DIRECT

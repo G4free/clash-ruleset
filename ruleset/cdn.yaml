@@ -1,10 +1,16 @@
+# CDN/package download domains and IPs, for free nodes or low rate links
 payload:
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,meiying.video
+  # <<<<<< application package download/upgrade start
   # Android Studio
   - DOMAIN-SUFFIX,gvt1.com
   # Discord
   - DOMAIN-SUFFIX,dl.discordapp.net
+
+  - DOMAIN-SUFFIX,dl.wireshark.org
+  # <<<<<< application package download/upgrade end
+
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,meiying.video
   # PornHub
   - DOMAIN-SUFFIX,phncdn.com,DIRECT
   # xvideos
@@ -12,6 +18,21 @@ payload:
   - IP-CIDR,143.244.51.9/32,no-resolve
   # javhub.net | highporn.net
   - DOMAIN-SUFFIX,anyhentai.com
+
+  # stripchat
+  - DOMAIN-SUFFIX,doppiocdn.com,DIRECT
+
+  - DOMAIN-SUFFIX,bbdata.cc,DIRECT
+
+  # charurbate
+  - DOMAIN-SUFFIX,highwebmedia.com,DIRECT
+  - DOMAIN-SUFFIX,mmcdn.com,DIRECT
+  # xnxx.com
+  - DOMAIN-SUFFIX,xnxx-cdn.com,DIRECT
+  # MissAV
+  - DOMAIN-SUFFIX,static.missav.com
+  - DOMAIN-SUFFIX,cdn.missav.com
+  - DOMAIN-SUFFIX,thumbnail.missav.com
   # 91
   - DOMAIN-SUFFIX,killcovid2021.com,DIRECT
   # - DOMAIN-SUFFIX,91zuixindizhi2.com
@@ -116,18 +137,3 @@ payload:
   - DOMAIN-SUFFIX,91p97.com
   - DOMAIN-SUFFIX,91p98.com
   - DOMAIN-SUFFIX,91p99.com
-
-  # stripchat
-  - DOMAIN-SUFFIX,doppiocdn.com,DIRECT
-
-  - DOMAIN-SUFFIX,bbdata.cc,DIRECT
-
-  # charurbate
-  - DOMAIN-SUFFIX,highwebmedia.com,DIRECT
-  - DOMAIN-SUFFIX,mmcdn.com,DIRECT
-  # xnxx.com
-  - DOMAIN-SUFFIX,xnxx-cdn.com,DIRECT
-  # MissAV
-  - DOMAIN-SUFFIX,static.missav.com
-  - DOMAIN-SUFFIX,cdn.missav.com
-  - DOMAIN-SUFFIX,thumbnail.missav.com

@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,dl.discordapp.net
 
   - DOMAIN-SUFFIX,dl.wireshark.org
+  - DOMAIN-SUFFIX,dl.whaledown.com
   # <<<<<< application package download/upgrade end
 
   - DOMAIN-SUFFIX,twimg.com

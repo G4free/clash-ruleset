@@ -10,6 +10,9 @@ payload:
   - DOMAIN-SUFFIX,dl.whaledown.com
   # <<<<<< application package download/upgrade end
 
+  # instagram
+  - DOMAIN-SUFFIX,fbcdn.net
+
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,meiying.video
   # PornHub

@@ -8,6 +8,7 @@ payload:
 
   - DOMAIN-SUFFIX,dl.wireshark.org
   - DOMAIN-SUFFIX,dl.whaledown.com
+  - DOMAIN-SUFFIX,downloads.vivaldi.com
   # <<<<<< application package download/upgrade end
 
   # instagram
@@ -15,6 +16,8 @@ payload:
 
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,meiying.video
+
+  - DOMAIN-SUFFIX,swag.live
   # PornHub
   - DOMAIN-SUFFIX,phncdn.com,DIRECT
   # xvideos

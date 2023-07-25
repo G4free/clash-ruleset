@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,dl.wireshark.org
   - DOMAIN-SUFFIX,dl.whaledown.com
   - DOMAIN-SUFFIX,downloads.vivaldi.com
+  - DOMAIN-SUFFIX,repo.anaconda.com
   # <<<<<< application package download/upgrade end
 
   # instagram

@@ -8,3 +8,6 @@ payload:
   # register
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+  # bard
+  - DOMAIN-SUFFIX,bard.google.com

@@ -29,6 +29,7 @@ payload:
 
   # stripchat
   - DOMAIN-SUFFIX,doppiocdn.com,DIRECT
+  - DOMAIN-SUFFIX,doppiocdn.org,DIRECT
 
   - DOMAIN-SUFFIX,bbdata.cc,DIRECT
 

@@ -18,7 +18,7 @@ rule-providers:
   anti-ip-attr-direct:
     type: http
     format: text
-    behavior: domain
+    behavior: classical
     url: "https://ghproxy.com/https://raw.githubusercontent.com/G4free/clash-ruleset/main/anti-ip-attr/rule-set-direct.list"
     path: ./ruleset/anti-ip-attr-direct.txt
     interval: 86400

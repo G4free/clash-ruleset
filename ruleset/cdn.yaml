@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,static.missav.com
   - DOMAIN-SUFFIX,cdn.missav.com
   - DOMAIN-SUFFIX,thumbnail.missav.com
+  - DOMAIN-SUFFIX,akamai-content-network.com
   # 91
   - DOMAIN-SUFFIX,killcovid2021.com,DIRECT
   # - DOMAIN-SUFFIX,91zuixindizhi2.com

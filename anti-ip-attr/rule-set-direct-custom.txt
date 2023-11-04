@@ -1,0 +1,7 @@
+# custom domains for DIRECT access.
+
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,weixin.qq.com
+# DOMAIN-SUFFIX,www.bilibili.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bilivideo.com

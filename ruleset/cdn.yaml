@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,repo.anaconda.com
   # <<<<<< application package download/upgrade end
 
+  - DOMAIN-SUFFIX,erome.com
   # jable.tv
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,mushroomtrack.com

@@ -25,6 +25,10 @@ then in the `rules` block:
 
 Mind the indent.
 
+## OtherAIChat.txt
+
+It exists because some nodes of proxy providers have their specific policy for OpenAI, so ChatGPT can use more nodes than other AI chat domains.
+
 ## ruleset list
 
 - ChatGPT

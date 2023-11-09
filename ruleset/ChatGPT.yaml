@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,chatgpt.com
   # payment
   - DOMAIN-SUFFIX,stripe.com
   # register

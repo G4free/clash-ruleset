@@ -1,7 +1,12 @@
 # Other AI chat providers
 
-# bard
+# Google Bard(now called Gemini - from 2024.02.08)
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+# - DOMAIN,ai.google.dev
 
 #cloude
 DOMAIN-SUFFIX,claude.ai

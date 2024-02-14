@@ -8,6 +8,9 @@ DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 # - DOMAIN,ai.google.dev
 
+# Android Studio Bot
+DOMAIN,aida.googleapis.com
+
 #cloude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com

@@ -14,6 +14,7 @@ payload:
   # <<<<<< application package download/upgrade end
   
   - DOMAIN-SUFFIX,mediafire.com
+  - DOMAIN-SUFFIX,akamaized.net
 
   - DOMAIN-SUFFIX,erome.com
   # jable.tv

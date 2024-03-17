@@ -53,7 +53,8 @@ payload:
   - DOMAIN-SUFFIX,thumbnail.missav.com
   - DOMAIN-SUFFIX,akamai-content-network.com
   # 91
-  - DOMAIN-SUFFIX,killcovid2021.com,DIRECT
+  - DOMAIN,la.btc35000.com
+  - DOMAIN-SUFFIX,killcovid2021.com
   # - DOMAIN-SUFFIX,91zuixindizhi2.com
   # regexp:(^|\.)91p[0-9][0-9]?\.com$
   - DOMAIN-SUFFIX,91p0.com

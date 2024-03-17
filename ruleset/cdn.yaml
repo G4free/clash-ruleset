@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,meiying.video
 
+  - DOMAIN-SUFFIX,hlsdelivery.net
   - DOMAIN-SUFFIX,swag.live
   # PornHub
   - DOMAIN-SUFFIX,phncdn.com,DIRECT

@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,downloads.vivaldi.com
   - DOMAIN-SUFFIX,repo.anaconda.com
   - DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
+  # BeyondCompare
+  - DOMAIN-SUFFIX,scootersoftware.com
   # <<<<<< application package download/upgrade end
   
   - DOMAIN-SUFFIX,mediafire.com

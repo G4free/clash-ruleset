@@ -10,3 +10,11 @@ payload:
   # register
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  # ChatGPT client
+  - PROCESS-NAME,ChatGPT
+  - PROCESS-NAME,ChatGPTHelper
+  # ChatGPT Atlas
+  - PROCESS-NAME,ChatGPT Atlas
+  - PROCESS-NAME,ChatGPT Atlas (Service)
+  - PROCESS-NAME,ChatGPT Atlas (Renderer)
+  - PROCESS-NAME,ChatGPT Atlas (GPU)

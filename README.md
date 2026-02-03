@@ -2,7 +2,7 @@
 
 ## How to use
 
-doc: https://lancellc.gitbook.io/clash/clash-config-file/rule-provider
+doc: https://wiki.metacubex.one/config/rule-providers/
 
 - example:
 

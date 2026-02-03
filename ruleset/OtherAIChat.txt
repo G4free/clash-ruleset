@@ -11,11 +11,6 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 # Android Studio Bot
 DOMAIN,aida.googleapis.com
 
-#cloude
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,hsforms.net
-
 # Jetbrains AI Assistant
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grazie.ai

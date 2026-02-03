@@ -1,0 +1,11 @@
+# src1: https://github.com/v2fly/domain-list-community/blob/master/data/anthropic
+# src2: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Claude
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN,cdn.usefathom.com
+# CDN
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net

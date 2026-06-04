@@ -1,5 +1,15 @@
 # Clash ruleset
 
+## ⛔️ Deprecated ones
+
+1. [anti-ip-attr](./anti-ip-attr/)
+
+    These entries were sourced from GitHub and have long been routed via the `DIRECT` rule in my environment.
+
+    However, recent logs show that some media resource domains (e.g., `d1.music.126.com`) are matched by the `anti-ip-attr-proxy` ruleset, which is unexpected.
+
+    Since these rulesets are no longer needed, they won't be maintained anymore.
+
 ## How to use
 
 doc: https://wiki.metacubex.one/config/rule-providers/
